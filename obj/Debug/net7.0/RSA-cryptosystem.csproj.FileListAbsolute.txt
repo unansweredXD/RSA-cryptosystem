@@ -1,0 +1,15 @@
+D:\pet-projects\RSA-cryptosystem\RSA-cryptosystem\bin\Debug\net7.0\RSA-cryptosystem.exe
+D:\pet-projects\RSA-cryptosystem\RSA-cryptosystem\bin\Debug\net7.0\RSA-cryptosystem.deps.json
+D:\pet-projects\RSA-cryptosystem\RSA-cryptosystem\bin\Debug\net7.0\RSA-cryptosystem.runtimeconfig.json
+D:\pet-projects\RSA-cryptosystem\RSA-cryptosystem\bin\Debug\net7.0\RSA-cryptosystem.dll
+D:\pet-projects\RSA-cryptosystem\RSA-cryptosystem\bin\Debug\net7.0\RSA-cryptosystem.pdb
+D:\pet-projects\RSA-cryptosystem\RSA-cryptosystem\obj\Debug\net7.0\RSA-cryptosystem.csproj.AssemblyReference.cache
+D:\pet-projects\RSA-cryptosystem\RSA-cryptosystem\obj\Debug\net7.0\RSA-cryptosystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\pet-projects\RSA-cryptosystem\RSA-cryptosystem\obj\Debug\net7.0\RSA-cryptosystem.AssemblyInfoInputs.cache
+D:\pet-projects\RSA-cryptosystem\RSA-cryptosystem\obj\Debug\net7.0\RSA-cryptosystem.AssemblyInfo.cs
+D:\pet-projects\RSA-cryptosystem\RSA-cryptosystem\obj\Debug\net7.0\RSA-cryptosystem.csproj.CoreCompileInputs.cache
+D:\pet-projects\RSA-cryptosystem\RSA-cryptosystem\obj\Debug\net7.0\RSA-cryptosystem.dll
+D:\pet-projects\RSA-cryptosystem\RSA-cryptosystem\obj\Debug\net7.0\refint\RSA-cryptosystem.dll
+D:\pet-projects\RSA-cryptosystem\RSA-cryptosystem\obj\Debug\net7.0\RSA-cryptosystem.pdb
+D:\pet-projects\RSA-cryptosystem\RSA-cryptosystem\obj\Debug\net7.0\RSA-cryptosystem.genruntimeconfig.cache
+D:\pet-projects\RSA-cryptosystem\RSA-cryptosystem\obj\Debug\net7.0\ref\RSA-cryptosystem.dll

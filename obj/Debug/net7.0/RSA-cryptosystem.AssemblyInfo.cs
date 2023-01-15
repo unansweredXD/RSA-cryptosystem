@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("lab4.2 crypt")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("RSA-cryptosystem")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("lab4.2 crypt")]
-[assembly: System.Reflection.AssemblyTitleAttribute("lab4.2 crypt")]
+[assembly: System.Reflection.AssemblyProductAttribute("RSA-cryptosystem")]
+[assembly: System.Reflection.AssemblyTitleAttribute("RSA-cryptosystem")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.

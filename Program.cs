@@ -44,7 +44,7 @@ namespace lab4._2_crypt
                 degree /= 2;
             }
             return (int)result;
-        }        
+        }
         static long inputAndSimpTest()
         {
             long num;
@@ -130,7 +130,7 @@ namespace lab4._2_crypt
             Console.WriteLine("Закрытый ключ Боба:\n Cb = {0}", cForBob);
 
             int[] encryptedBytes = new int[byteCounter];
-            for(int i = 0; i < byteCounter; i++)
+            for (int i = 0; i < byteCounter; i++)
                 encryptedBytes[i] = funcCalculate(bytesMess[i], dForBob, NForBob);
             Console.WriteLine("Байты зашифрованного сообщения:");
             foreach (var i in encryptedBytes)
@@ -148,3 +148,4 @@ namespace lab4._2_crypt
         }
     }
 }
+
