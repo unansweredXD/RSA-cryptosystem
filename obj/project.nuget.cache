@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sD2de4oxtvUc618rzz83Yt1VKDJY3P0Rw93m7p7oI/epd/KcP4WmmlYEAFeiXKrTFHAg9K5rDMdg0u/kSziPfg==",
+  "success": true,
+  "projectFilePath": "D:\\VS Projects\\lab4.2 crypt\\lab4.2 crypt\\lab4.2 crypt.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pryto\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\pryto\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\pryto\\.nuget\\packages",
+      "D:\\Программы\\Visual Studio\\Shared\\NuGetPackages"
+    ]
+  }
+}
